@@ -19,7 +19,7 @@ public class Main {
          //Zadatak 5.
             String myFirstName = "Riad";
             String myLastName = "Cosic";
-            String firstLetterOfFirstName = "R";
+            char firstLetterOfFirstName = 'R';
             int yearOfBirth = 1997;
             long bigNumber = 100000000000L;
             double decimalNumber = 42.001;
@@ -39,10 +39,21 @@ public class Main {
                         System.out.print(fourthLetter);
                         System.out.println();
 
+                    // Update zadatak 6.
+
+                    char R = 82;
+                    char I = 73;
+                    char A = 65;
+                    char D = 68;
+                    System.out.print(R);
+                    System.out.print(I);
+                    System.out.print(A);
+                    System.out.println(D);
+
 
                         //Zadatak 7.
-                        String trueStatement = "Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42: true";
-                                System.out.println(trueStatement);
+                        boolean trueStatement = true;
+                                System.out.println("Answer to the Ultimate Question of Life, the Universe, and Everything is the number 42: "  + trueStatement);
 
 
                                 //Zadatak 8.
