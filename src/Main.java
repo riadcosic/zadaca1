@@ -65,6 +65,8 @@ public class Main {
                                 int numberZadatak8 = numberZadatak7 * 2;
                                 System.out.println("This is a number " + numberZadatak8 + " and it is about to double");
 
+                                //BONUS dio ce biti uskoro :)
+
     }
 
 
