@@ -50,22 +50,31 @@ public class Main {
                                 System.out.println("This is a number " + numberZadatak + " and it is about to double");
                                 int numberZadatak1 = numberZadatak * 2;
                                 System.out.println("This is a number " + numberZadatak1 + " and it is about to double");
+                                        String counter = "X";
+                                        System.out.println("The original number has been doubled: " + counter + " times" );
                                 int numberZadatak2 = numberZadatak1 * 2;
                                 System.out.println("This is a number " + numberZadatak2 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + " times" );
                                 int numberZadatak3 = numberZadatak2 * 2;
                                 System.out.println("This is a number " + numberZadatak3 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + " times" );
                                 int numberZadatak4 = numberZadatak3 * 2;
                                 System.out.println("This is a number " + numberZadatak4 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + counter + " times" );
                                 int numberZadatak5 = numberZadatak4 * 2;
                                 System.out.println("This is a number " + numberZadatak5 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + counter + counter + " times" );
                                 int numberZadatak6 = numberZadatak5 * 2;
                                 System.out.println("This is a number " + numberZadatak6 + " and it is about to double");
-                                int numberZadatak7 = numberZadatak6 * 2;
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + counter + counter + counter + " times" );
+                                 int numberZadatak7 = numberZadatak6 * 2;
                                 System.out.println("This is a number " + numberZadatak7 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + counter + counter + counter +  counter + " times" );
                                 int numberZadatak8 = numberZadatak7 * 2;
                                 System.out.println("This is a number " + numberZadatak8 + " and it is about to double");
+                                        System.out.println("The original number has been doubled: " + counter +counter + counter + counter + counter + counter + counter + counter + " times" );
 
-                                //BONUS dio ce biti uskoro :)
+                                //Bonus dio zadaće - It works but it ain't pretty :)
 
     }
 
