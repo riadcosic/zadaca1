@@ -74,7 +74,7 @@ public class Main {
                                 System.out.println("This is a number " + numberZadatak8 + " and it is about to double");
                                         System.out.println("The original number has been doubled: " + counter +counter + counter + counter + counter + counter + counter + counter + " times" );
 
-                                //Bonus dio zadaće - It works but it ain't pretty :)
+                                //Bonus dio zadaće - It ain't pretty but it works  :)
 
     }
 
